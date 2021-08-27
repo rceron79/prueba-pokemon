@@ -4,7 +4,7 @@
 
 [Sitio de Age Of Empires] (https://www.ageofempires.com/)
 
-##Introducción
+## Introducción
 
 Age of Empires (conocida también por las siglas AOE) es una serie de videojuegos de estrategia en tiempo real para computadoras personales. La saga es desarrollada en un principio por Ensemble Studios y más tarde por Skybox Labs, Forgotten Empires, Tantalus Media y Wicked Witch, y publicada por Xbox Game Studios. El primer título, Age of Empires, apareció en 1997; desde entonces, en la saga canónica se han lanzado otros seis títulos, y nueve expansiones más entre todas las entregas canónicas. Todos ellos cuentan con dos modos principales de juego de un jugador (mapa aleatorio y campaña) y tratan sobre eventos históricos diferentes. Y luego multijugador, actualmente con muchas opciones.
 
